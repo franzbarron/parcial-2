@@ -1,0 +1,24 @@
+{
+  "name": "parcial-2",
+  "version": "1.0.0",
+  "description": "2da examinación parcial del curso Desarrollo de Aplicaciones Web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franzbarron/parcial-2.git"
+  },
+  "author": "Francisco Barrón <franz.barron@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franzbarron/parcial-2/issues"
+  },
+  "homepage": "https://github.com/franzbarron/parcial-2#readme",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
